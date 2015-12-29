@@ -1,1 +1,1 @@
-Esta es una prueba de un md con un [link](www.google.com) a Google
+Esta es una prueba de un md con un [link](http://www.google.com) a Google
